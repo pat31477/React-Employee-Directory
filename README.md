@@ -1,7 +1,7 @@
 # React-Employee-Directory
 ![License: MIT](https://img.shields.io/badge/License%3A-MIT-green.svg)
 
-[Live Website](https://herokulinkgoeshere/).
+[Live Website](https://pat31477.github.io/React-Employee-Directory/).
 
 ![Screen Shot1](assets/images/FullScreenShot.JPG?raw=true "Screen Shot1")
 
