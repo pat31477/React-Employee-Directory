@@ -22,7 +22,7 @@ This client-side application allows a user to quickly search for an employee's c
 
 The employee list was populated by an API GET Request to https://randomuser.me.  This application was created with React and Bootstrap, and was built as a homework assignment from the Rutgers Full Stack Web Development Bootcamp.  
 
-![Screenshot of Application](https://github.com/TomOverland/Employee-Directory/blob/main/public/assets/Searchgif.gif)
+![Screenshot of Application](https://github.com/hgkgkjgjjj)
 
 
 ## Installation:
