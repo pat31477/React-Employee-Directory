@@ -3,7 +3,7 @@
 
 [Live Website](https://herokulinkgoeshere/).
 
-![Screen Shot1](./images/MainPage.png?raw=true "Screen Shot1")
+![Screen Shot1](assets/images/FullScreenShot.JPG?raw=true "Screen Shot1")
 
 
 ## Table of Contents
@@ -22,7 +22,7 @@ This client-side application allows a user to quickly search for an employee's c
 
 The employee list was populated by an API GET Request to https://randomuser.me.  This application was created with React and Bootstrap, and was built as a homework assignment from the Rutgers Full Stack Web Development Bootcamp.  
 
-![Screenshot of Application](https://github.com/hgkgkjgjjj)
+![Demo](assets/images/ReactEmpDemo.gif?raw=true "Demo")
 
 
 ## Installation:
