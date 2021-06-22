@@ -6,7 +6,7 @@ function DataTable({ headings, users, handleSort}) {
         <div className="datatable mt-5">
             <table
                 id="table"
-                className="table table-striped table-hover table-bordered table-condensed">
+                className="table table-dark table-striped table-hover table-bordered table-condensed">
                     <thead class="hed">
                         <tr>
                             {headings.map(({ name, width }) => {
