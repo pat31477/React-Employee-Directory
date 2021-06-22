@@ -3,6 +3,8 @@
 
 [Live Website](https://pat31477.github.io/React-Employee-Directory/).
 
+[Github Repo](https://github.com/pat31477/React-Employee-Directory)
+
 ![Screen Shot1](assets/images/FullScreenShot.JPG?raw=true "Screen Shot1")
 
 
